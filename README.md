@@ -13,8 +13,6 @@
 ---
 
 ## 💫 About Me
-
-- 🏢 **Associate Software Engineer** at Sufalam Technologies — building enterprise SaaS platforms for clients across India, Qatar, and the United States
 - 🚀 Focused on **scalable full-stack systems**, backend architecture, and AI integration
 - 🧠 Currently exploring **LLM-powered apps**, microservices, and event-driven architecture
 - 📊 Passionate about **data-driven products** — stock analytics, automation tools, and insights platforms
